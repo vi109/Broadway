@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+}
+
+header {
+  background-image: url("../images/building.png");
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+h1,h2,h3,h4 {
+  font-weight: bold;
+}
+
+li {
+  font-size: 18px;
+  list-style: none;
+}
+
+h3 {
+  background-image: url("../images/building.png");
+}
+
+footer {
+  text-align: left;
+
+
+}
